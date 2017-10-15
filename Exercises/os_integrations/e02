@@ -1,0 +1,25 @@
+Write a program that takes a list of ini file names and a list of keys and prints the values of the given keys. Running example looks like this:
+
+$ python fetch.py --key name --key email users.ini teachers.ini cities.ini
+
+And the files:
+
+// file: users.ini
+name=ynon
+web = www.tocode.co.il
+likes = python and stuff
+
+// file: teachers.ini
+name = joe
+email = joe@gmail.com
+color = red
+
+// file cities.ini
+size=10
+name=foo bar
+
+Expected Result:
+
+name: ynon
+email: joe@gmail.com
+

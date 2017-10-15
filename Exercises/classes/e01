@@ -1,0 +1,16 @@
+
+    The following code assumes a class named Summer exists. Create that class so the code will work:
+
+s = Summer()
+t = Summer()
+
+s.add(10, 20)
+t.add(50)
+s.add(30)
+
+# should print 60
+print s.total
+
+# should print 50
+print t.total
+

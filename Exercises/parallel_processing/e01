@@ -1,0 +1,1 @@
+Provided the following passwords.md5 file that contains md5 hashed passwords. Write a python program that finds as many original passwords as you can. Can you speed it up using multiple processes? What's the ideal number of processes to use?

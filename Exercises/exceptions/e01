@@ -1,0 +1,9 @@
+
+    Write a program that takes a file name from command line and prints the number of lines in that file. If the provided argument does not refer to a file an error should be printed. Example Usage:
+
+python countlines.py /etc/shells
+11
+
+python countlines.py /foo/bar
+Sorry, file /foo/bar not found
+

@@ -1,0 +1,8 @@
+
+    From the following text, print only the lines that start with a word that has only uppercase characters:
+
+hello - don't print me
+HELLO - but I'm ok
+Im a line that shouldn't be printed
+BUT I'm a line that should
+
