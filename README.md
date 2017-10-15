@@ -1,6 +1,6 @@
-                                                     # **pythonpunks**
+# PythonPunks
+## Shared space for Python Exercises & Solutions
 
-                                          ## **Shared place for Python Exercises**
 **What's this about ?**
 
 Anyone can put up stuff like excercises, learning materials & sources here. Contribute to the solution & share their individual code.
@@ -14,7 +14,7 @@ Anyone can put up stuff like excercises, learning materials & sources here. Cont
 
 
 
-## Standards of each solution submitted by the individual
+### Standards of each solution submitted by the individual
 Code should have the contributor names & the resources links which he/she referred to solve the problem
 Example:
 ```
