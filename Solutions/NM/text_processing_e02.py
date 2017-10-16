@@ -25,5 +25,5 @@ def main():
         if (line.split(" ")[0]).isupper():
             print (line)
 
-if __name__ = "__main__":
+if __name__ == "__main__":
     main()
