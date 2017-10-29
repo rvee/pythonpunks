@@ -4,6 +4,7 @@
 **What's this about ?**
 
 Anyone can contribute resources like exercises, learning materials & sources here. Contribute to the solution & share their individual code.
+If you have other source of exercises, put it under external_source.
 
 **How it works ?**
 
